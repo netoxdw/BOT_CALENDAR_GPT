@@ -1,0 +1,635 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215523398704@s.whatsapp.net',
+    fromMe: false,
+    id: '091DB02615029340AFC083E84EC2712E',
+    participant: undefined
+  },
+  messageTimestamp: 1724887620,
+  pushName: 'Ernesto Guevara Tapia',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5215523398704'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a18836bc-d1b5-4c84-9522-152a56c6b4d5',
+  keyword: 'key_949bbf73-da56-4bae-87e8-33c2cb336e33',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e3552cef1d64d606ab2d67f6035717a3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215523398704@s.whatsapp.net',
+    fromMe: false,
+    id: '88320843524202F35DB3663FD3562575',
+    participant: undefined
+  },
+  messageTimestamp: 1724887627,
+  pushName: 'Ernesto Guevara Tapia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cita',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cita',
+  from: '5215523398704'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a18836bc-d1b5-4c84-9522-152a56c6b4d5',
+  keyword: 'key_949bbf73-da56-4bae-87e8-33c2cb336e33',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e3552cef1d64d606ab2d67f6035717a3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215523398704@s.whatsapp.net',
+    fromMe: false,
+    id: 'A982733CFDDD9D18D63098464DB696B4',
+    participant: undefined
+  },
+  messageTimestamp: 1724887639,
+  pushName: 'Ernesto Guevara Tapia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mañana a las 17',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mañana a las 17',
+  from: '5215523398704'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ef54dafc-4068-456f-a8a5-d2768c44ae89',
+  keyword: 'ans_22734b65-12ef-44e1-9b7e-943ec1e9e1c4',
+  answer: 'Revisando disponibilidad...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '345b8d8a0a4ac807ca70af0df94b421a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215523398704@s.whatsapp.net',
+    fromMe: false,
+    id: '8EC426524CBD2EC09B599495428A2BC8',
+    participant: undefined
+  },
+  messageTimestamp: 1724887646,
+  pushName: 'Ernesto Guevara Tapia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '5215523398704'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215523398704@s.whatsapp.net',
+    fromMe: false,
+    id: 'C88C975953E7D1E6826339804271D1C8',
+    participant: undefined
+  },
+  messageTimestamp: 1724887649,
+  pushName: 'Ernesto Guevara Tapia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Juan',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Juan',
+  from: '5215523398704'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a49c204f-1b3a-403a-abbd-876dc8bdcfc4',
+  keyword: 'ans_fcdae171-19f4-44cb-9385-f29cf66543c9',
+  answer: 'Perfecto, ¿Cuál es el motivo de tu cita?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '50a205bfa7d4fdff631af1d822562223'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215523398704@s.whatsapp.net',
+    fromMe: false,
+    id: '1A9BD034C9DE1FA256400ECE3384631D',
+    participant: undefined
+  },
+  messageTimestamp: 1724887655,
+  pushName: 'Ernesto Guevara Tapia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Corte de cabello',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Corte de cabello',
+  from: '5215523398704'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a3893817-4f70-4aaf-bf5b-38fa242d705f',
+  keyword: 'ans_a49c204f-1b3a-403a-abbd-876dc8bdcfc4',
+  answer: 'Genial, Ya cree la reunion. Te esperamos!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2de31878bee63137d9eca55aa63d583a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215523398704@s.whatsapp.net',
+    fromMe: false,
+    id: '49045B886034852B44DD19182D171B3F',
+    participant: undefined
+  },
+  messageTimestamp: 1724887744,
+  pushName: 'Ernesto Guevara Tapia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5215523398704'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a18836bc-d1b5-4c84-9522-152a56c6b4d5',
+  keyword: 'key_949bbf73-da56-4bae-87e8-33c2cb336e33',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e3552cef1d64d606ab2d67f6035717a3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215523398704@s.whatsapp.net',
+    fromMe: false,
+    id: '602D1357C7ACB4C589A6F76338A5B89F',
+    participant: undefined
+  },
+  messageTimestamp: 1724887748,
+  pushName: 'Ernesto Guevara Tapia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cita',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cita',
+  from: '5215523398704'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a18836bc-d1b5-4c84-9522-152a56c6b4d5',
+  keyword: 'key_949bbf73-da56-4bae-87e8-33c2cb336e33',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e3552cef1d64d606ab2d67f6035717a3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215523398704@s.whatsapp.net',
+    fromMe: false,
+    id: 'D07C988343BC6F06DCAE3B5C14D5B4EE',
+    participant: undefined
+  },
+  messageTimestamp: 1724887756,
+  pushName: 'Ernesto Guevara Tapia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mañana a las 16',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mañana a las 16',
+  from: '5215523398704'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ef54dafc-4068-456f-a8a5-d2768c44ae89',
+  keyword: 'ans_22734b65-12ef-44e1-9b7e-943ec1e9e1c4',
+  answer: 'Revisando disponibilidad...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '345b8d8a0a4ac807ca70af0df94b421a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215523398704@s.whatsapp.net',
+    fromMe: false,
+    id: 'AF81D58F614544A5FF329AE46BCD8D3B',
+    participant: undefined
+  },
+  messageTimestamp: 1724887765,
+  pushName: 'Ernesto Guevara Tapia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '5215523398704'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215523398704@s.whatsapp.net',
+    fromMe: false,
+    id: '7667C6040ECB311F350616714B372326',
+    participant: undefined
+  },
+  messageTimestamp: 1724887770,
+  pushName: 'Ernesto Guevara Tapia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Neto',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Neto',
+  from: '5215523398704'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a49c204f-1b3a-403a-abbd-876dc8bdcfc4',
+  keyword: 'ans_fcdae171-19f4-44cb-9385-f29cf66543c9',
+  answer: 'Perfecto, ¿Cuál es el motivo de tu cita?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '50a205bfa7d4fdff631af1d822562223'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215523398704@s.whatsapp.net',
+    fromMe: false,
+    id: '03BB733475C20B835A6B5EFC34C4AFDD',
+    participant: undefined
+  },
+  messageTimestamp: 1724887775,
+  pushName: 'Ernesto Guevara Tapia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Consulta',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Consulta',
+  from: '5215523398704'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a3893817-4f70-4aaf-bf5b-38fa242d705f',
+  keyword: 'ans_a49c204f-1b3a-403a-abbd-876dc8bdcfc4',
+  answer: 'Genial, Ya cree la reunion. Te esperamos!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2de31878bee63137d9eca55aa63d583a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215523398704@s.whatsapp.net',
+    fromMe: false,
+    id: '26A0F00F6DAD850660B5E4EBD0429EB9',
+    participant: undefined
+  },
+  messageTimestamp: 1724887853,
+  pushName: 'Ernesto Guevara Tapia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5215523398704'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a18836bc-d1b5-4c84-9522-152a56c6b4d5',
+  keyword: 'key_949bbf73-da56-4bae-87e8-33c2cb336e33',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e3552cef1d64d606ab2d67f6035717a3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215523398704@s.whatsapp.net',
+    fromMe: false,
+    id: 'C3FB6D304AA1E57C530D05E6AE413BAE',
+    participant: undefined
+  },
+  messageTimestamp: 1724887858,
+  pushName: 'Ernesto Guevara Tapia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Agendar cita',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Agendar cita',
+  from: '5215523398704'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a18836bc-d1b5-4c84-9522-152a56c6b4d5',
+  keyword: 'key_949bbf73-da56-4bae-87e8-33c2cb336e33',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e3552cef1d64d606ab2d67f6035717a3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215523398704@s.whatsapp.net',
+    fromMe: false,
+    id: 'C3031C02D460616A1B988A2A3FC33037',
+    participant: undefined
+  },
+  messageTimestamp: 1724887871,
+  pushName: 'Ernesto Guevara Tapia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Viernes a las 10',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Viernes a las 10',
+  from: '5215523398704'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ef54dafc-4068-456f-a8a5-d2768c44ae89',
+  keyword: 'ans_22734b65-12ef-44e1-9b7e-943ec1e9e1c4',
+  answer: 'Revisando disponibilidad...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '345b8d8a0a4ac807ca70af0df94b421a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215523398704@s.whatsapp.net',
+    fromMe: false,
+    id: '9ED56869A04E1FD4799C13BA3682EA2F',
+    participant: undefined
+  },
+  messageTimestamp: 1724887880,
+  pushName: 'Ernesto Guevara Tapia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '5215523398704'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215523398704@s.whatsapp.net',
+    fromMe: false,
+    id: 'FC5688141F6BA053B512ECECCC864323',
+    participant: undefined
+  },
+  messageTimestamp: 1724887888,
+  pushName: 'Ernesto Guevara Tapia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pablo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pablo',
+  from: '5215523398704'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a49c204f-1b3a-403a-abbd-876dc8bdcfc4',
+  keyword: 'ans_fcdae171-19f4-44cb-9385-f29cf66543c9',
+  answer: 'Perfecto, ¿Cuál es el motivo de tu cita?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '50a205bfa7d4fdff631af1d822562223'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215523398704@s.whatsapp.net',
+    fromMe: false,
+    id: 'C05582A42B757745753A2AAFCC156DC9',
+    participant: undefined
+  },
+  messageTimestamp: 1724887894,
+  pushName: 'Ernesto Guevara Tapia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Corte de cabello',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Corte de cabello',
+  from: '5215523398704'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a3893817-4f70-4aaf-bf5b-38fa242d705f',
+  keyword: 'ans_a49c204f-1b3a-403a-abbd-876dc8bdcfc4',
+  answer: 'Genial, Ya cree la reunion. Te esperamos!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2de31878bee63137d9eca55aa63d583a'
+}
