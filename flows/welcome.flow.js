@@ -1,8 +1,11 @@
 const { addKeyword, EVENTS } = require("@bot-whatsapp/bot");
 
 const welcomeFlow = addKeyword(EVENTS.ACTION)
-    .addAction(async (ctx, ctxFn) => {
-        await ctxFn.endFlow("Bienvenido a este chatbot \n Si deseas agendar una cita puedes escribir 'Agendar cita' para reservar")
+    .addAnswer('¡Hola! 👋 Bienvenido al asistente virtual del consultorio. Estoy aquí para ayudarte a agendar citas y proporcionarte información sobre nuestros servicios.')
+    .addAction(
+        async (ctx, ctxFn) => {
+        await ctxFn.endFlow("¿En qué puedo asistirte hoy?  \n Si deseas agendar una cita puedes escribir 'Agendar cita' para reservar");
     });
+
 
 module.exports = { welcomeFlow }
